@@ -48,6 +48,9 @@ It also includes extra features such as:
 - Order placement
 - Order history display
 
+### UML Diagram
+![UML Diagram](images/UMLDiagram.png)
+
 ## Technologies Used
 - Java
 - Java Swing
