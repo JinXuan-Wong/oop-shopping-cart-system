@@ -16,6 +16,7 @@ It also includes extra features such as:
 - Promotion and discount code support
 - Nutritional information display
 - User profile management
+![UML Diagram](./preview.png)
 
 ## Features
 
@@ -49,7 +50,7 @@ It also includes extra features such as:
 - Order history display
 
 ### UML Diagram
-![UML Diagram](images/UMLDiagram.png)
+![UML Diagram](./UMLDiagram.png)
 
 ## Technologies Used
 - Java
